@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Designer: Serge Tcherepnin
+:gen: 3
+:short: TKB
+:code: 115
+:END:
+#+TITLE: Touch Activated Keyboard
+
+
+* description
+
+
+
+* schematic / info
+
+  [[https://guyd2.com/cellar/modules/115_kbd/index_115kbd.html][cellar - 115 KBD]]

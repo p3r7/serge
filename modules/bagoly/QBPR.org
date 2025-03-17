@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Designer: Serge Tcherepnin
+:gen: 3
+:short: TKB
+:code: 115
+:END:
+#+TITLE: Quad BandPass Resonator
+
+https://www.modwiggler.com/forum/viewtopic.php?t=206797

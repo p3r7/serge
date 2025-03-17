@@ -1,0 +1,29 @@
+:PROPERTIES:
+:Designer: Serge Tcherepnin
+:gen: 3
+:short: TRK
+:cgs: CGS86
+:END:
+#+TITLE: Touch Responsive Keyboard
+
+
+* description
+
+  Circuit published by Serge Tcherepnin inside of an issue of Synapse (January/Febuary 1976).
+
+  Supposed to offer similar capabilities to the touch sensors inside of the TKB but with an alternative approach.
+
+  Never made it into an official Serge module but got made into a kit by Ken Stone (CGS86), often integrated into Programmer/Sequencer builds to make a pseudo-TKB.
+
+
+* schematic / info
+
+  [[https://guyd2.com/cellar/modules/touch_resp_key/index_touchresp.html][celar - TRK]]
+
+  https://www.elby-designs.com/webtek/cgs/serge/cgs86/cgs86_trk.html
+
+  https://djjondent.blogspot.com/2015/02/cgs-86-build-notes-for-serge-touch.html
+
+  https://www.elby-designs.com/webtek/cgs/serge/cgs86/cgs86_trk.html
+
+  gh:koppchen/serge-tkb-led-mod for the THC kit.

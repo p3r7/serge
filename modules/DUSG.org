@@ -1,0 +1,35 @@
+:PROPERTIES:
+:Designer: Serge Tcherepnin
+:gen: 3
+:short: DUSG
+:code: 114
+:CGS: CGS114
+:CGS2: CGS514
+:END:
+#+TITLE: Dual Universal Slope Generator
+
+
+* description
+
+  Can be built into the DTG (Dual Transient Generator), a lightweight version that takes only 2 columns.
+
+  Random*Source offers a completely redesigned version of the DUSG as the GTS with improved performance: transient rise times as fast as 13µs and a maximum cycle speed of 27kHz.
+
+
+* schematic / info
+
+  [[http://www.loudestwarning.co.uk/portfolio/dusg/][LW - DUSG]], goes over many mods to improve performance.
+
+  [[https://guyd2.com/cellar/modules/114_slope/index_114slope.html][cellar - 114]]
+
+  [[https://sdiy.info/wiki/CGS_Serge_dual_universal_slope_generator][sdiy.info - CGS114]]
+
+  https://pugix.com/synth/randomsource-serge-dusg/
+
+
+* buy / build it
+
+  - R*S: [[https://serge-modular.com/serge_eurorack?mod=RS_DSG_E][eurorack DUSG]]
+  - [[https://www.elby-designs.com/webtek/cgs/serge/cgs514/cgs514.htm][elby-designs.com - CGS514]]
+  - Log-Gain Electronics: [[https://www.low-gain.com/shop/p/lge114][Extended Dual Rise/Fall]] (DUSG), [[https://www.low-gain.com/shop/p/lge114a][Dual Rise/Fall]] (DTG)
+  - [[https://github.com/stripboard-layouts/lament-for-mills/blob/main/CGS114%20Serge%20Dual%20Universal%20Slope%20Generator/CGS114%20Serge%20USG.png][stripboard layout]]
