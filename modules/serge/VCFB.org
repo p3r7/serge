@@ -1,0 +1,43 @@
+:PROPERTIES:
+:Designer: Serge Tcherepnin
+:gen: 2
+:short: VCFB
+:END:
+#+TITLE: VC Filter Bank
+
+
+* description
+
+  from the catalog:
+
+  #+begin_quote
+  Upon special request, three or more filters can be linked to achieve the function of multiple band-pass spectrum filters (equivalent to
+  voltage-control parametric equalization). Filter banks of this type are exceptionally versatile because the multiple band-pass functions can be dynamically adjusted around any portions of the audio spectra.
+  A typical filter bank with four filters in series provides three fully adjustable BAND-PASS outputs, plus LOW and HIGH-PASS outputs.
+  #+end_quote
+
+  contrarilly to other filter bank designs, where filters are in parallel, this one has the filter run in series.
+
+  the few that got to try it reported it was too easy to have no sound if the crossover overlapped the wrong way.
+
+  admitedly, the only documented example of it being used in the wild was built out of 73 VCF, but any over filter could be used.
+
+  this could theoretically be aleviated by using a min/max circuit to clamp the cutoff of each filter based on the previous one's.
+
+
+* see also
+
+** BugBrand CrossOver Filter (COFilter)
+
+   the [[https://www.bugbrand.co.uk/product/crossover-filter/][BugBrand CrossOver Filter]] uses a similar concept, but with switchable series/parallel topology.
+
+   it has the same limitation as the VCFB: "you generally want to make sure that Cutoff 2 is set beyond the position of Cutoff 1."
+   however its [[https://www.bugbrand.co.uk/wp-content/uploads/2020/03/COFilter_Instructs_Oct19.pdf][instruction manual]] propose using the approach prioneered by R.Hordijk in its Twin-Peak filter:
+
+   #+begin_quote
+   In typical usage where all three bands are summed together in series mode, it is
+ suggested to begin with the Mid band set to inverted polarity. An interesting further idea is
+ to mute the High band and change to parallel mode, again with the Mid band inverted –
+ this gives a bandpass response but without the limitation that the Filter 2 cutoff has to be
+ higher than that of Filter 1 (aka Twin-Peak Response – see R.Hordijk).
+   #+end_quote

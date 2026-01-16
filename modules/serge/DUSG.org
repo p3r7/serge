@@ -24,7 +24,7 @@
 
   [[https://sdiy.info/wiki/CGS_Serge_dual_universal_slope_generator][sdiy.info - CGS114]]
 
-  https://pugix.com/synth/randomsource-serge-dusg/
+  [[https://pugix.com/synth/randomsource-serge-dusg/][pugix - R*S Serge DUSG]]
 
 
 * buy / build it

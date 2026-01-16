@@ -1,0 +1,27 @@
+:PROPERTIES:
+:Designer: bananalogue
+:short: DUSG
+:code: 114
+:CGS: CGS75
+:CGS2: CGS575
+:END:
+#+TITLE: Voltage Controlled Slope
+
+https://timstinchcombe.co.uk/index.php?pge=vcs
+
+
+
+* description
+
+  Adaptation of the DUSG with a few tweaks, notably independant control of the rise and fall.
+
+
+* schematic / info
+
+  [[https://web.archive.org/web/20070206163613/http://www.bananalogue.com/vcs.html][bananalogue - VCS]] (archived)
+
+  [[https://sdiy.info/wiki/CGS_voltage_controlled_slope][sdiy.info - CGS75]] / [[https://sdiy.info/wiki/CGS_voltage_controlled_slope_Eurorack][eurorack]]
+
+  [[https://www.timstinchcombe.co.uk/index.php?pge=vcs][Tim Stinchcombe - Serge VCS - How it Works]]
+
+  [[https://pugix.com/synth/cgs-serge-vcs/][pugix - CGS Serge VCS]]
