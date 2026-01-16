@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Designer: Jürgen Haible
+:END:
+#+TITLE: Audio Research
+
+
+https://www.analogueresearch.com/
+
+https://modulargrid.net/e/modules/browser?SearchName=&SearchVendor=343&SearchFunction=&SearchSecondaryfunction=&SearchHeight=&SearchTe=&SearchTemethod=max&SearchBuildtype=&SearchLifecycle=&SearchSet=&SearchMarketplace=&SearchIsmodeled=0&SearchShowothers=0&SearchShowpanel=1&order=newest&direction=asc
+
+https://www.youtube.com/@arc2880

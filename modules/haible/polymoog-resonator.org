@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Designer: Jürgen Haible
+:END:
+#+TITLE: Polymoog Resonator
+
+The original idea to have the filter section of a polymoog extracted as a stand alone effect box was first demonstrated in this [[https://www.youtube.com/watch?v=_XUiJi5153Y][video by Kenneth Elhardt]].
+
+This inspired J. Haible to make a clone of it as a module.
+
+R*S later released the VC Poly Resonator, which adds VC control over the 3 cutoff frequencies.
+
+http://jhaible.com/legacy/resonator/resonator.html
+
+https://jsisynth.com/resonator.html
+
+https://serge-modular.com/haible/eurorack

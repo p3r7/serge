@@ -1,0 +1,86 @@
+
+
+* Serge (Serge Tcherepnin / Rex Probe)
+
+** 1st Generation (1973)
+
+   | short name | name                                  | board id | cgs id         |
+   |------------+---------------------------------------+----------+----------------|
+   | PRC        | dual voltage processor                | R1       | CGS81          |
+   | MIX        | dual mixer                            | R2       |                |
+   | P&T        | peak and trough                       | R3       | CGS84          |
+   | ROU        | triple bidirectional router           | R4       |                |
+   | TWS        | triple waveshaper & dual mixer        | R5       |                |
+   | MOD        | gate/ring modulator                   | R6       | CGS79 / CGS579 |
+   | ENV        | envelope generator                    | R7       | CGS76 / CGS576 |
+   | VCO        | voltage controlled oscillator         | R8       |                |
+   | NEG        | dual negative slew                    | R9       |                |
+   | POS        | dual positive slew                    | R10      |                |
+   | COM        | triple comparator and Schmitt trigger | R11      |                |
+   | VCF        | voltage controlled filter             | R12      | CGS77 / CGS577 |
+   | PSD        | power supply decoupling               | R13      |                |
+   | HGA        | high gain amps                        | R14      |                |
+   | PRG        | programmer                            | R15      |                |
+   | SEQ        | sequencer                             | R16      |                |
+
+
+** 2nd Generation (1974-1975)
+
+   | short name | name                                | board id | cgs id |
+   |------------+-------------------------------------+----------+--------|
+   | SSG        | smooth & stepped function generator |          |        |
+   | NOISE      | Noise                               |          |        |
+   | PHA        | VC Phaser                           |          | CGS90  |
+   | PREVERB    | Pre-Amp/Reverb                      |          |        |
+   | TRK        | Touch Responsive Keyboard (Synapse) |          | CGS86  |
+
+dual MIX
+1075SR ASR	analog shift register
+1175SS HC
+KEG env gen
+
+
+** 3rd Generation (1976)
+
+   | short name     | name                                                      | board id | cgs id |
+   |----------------+-----------------------------------------------------------+----------+--------|
+   | QCA            | Quad Vca                                                  |      101 |        |
+   | PAN            | Dual Two Channel Equal Power Driver                       |      102 |        |
+   | MIX            | Dual Mixer                                                |      103 |        |
+   | QCA            | Quad Four Channel Equal Power Driver                      |      104 |        |
+   | PCO / NTO core | Precision Oscillator                                      |      106 |        |
+   | NTO            | New Timbral Oscillator                                    |      107 |        |
+   | VCF2           | Variable Bandwidth VCF                                    |      110 |        |
+   | VCFS           | Variable Slope VCF                                        |      111 |        |
+   | VCFQ / VCFX    | Variable Q VCF / Extended Range VCF                       |      112 |        |
+   | VCM            | Wave Multipliers                                          |      113 |        |
+   | DUSG / DTG     | Dual Universal Slope Generator / Dual Transient Generator |      114 |        |
+   | TKB            | Touch Activated Keyboard                                  |      115 |        |
+   | ADSR           | Extended ADSR                                             |      116 |        |
+   | PEF            | Pitch & Envelope Follower                                 |          |        |
+
+
+** 4th Generation (1981)
+
+   | short name | name                       | board id | cgs id |
+   |------------+----------------------------+----------+--------|
+   | ACPR       | Active Processor           |      201 |        |
+   | ResEQ      | Resonant Equalizer         |      202 |        |
+   | NCOM       | Divide/n Comparator        |      205 |        |
+   | PREAMP     | Preamp / Envelope Follower |      215 |        |
+
+
+* CGS circuits (Ken Stone)
+
+  | name           | cgs id |
+  |----------------+--------|
+  | Sub Oscillator | CGS01  |
+  | Psycho LFO     | CGS03  |
+
+
+* clee (Craig Lee)
+
+  | name     |
+  |----------|
+  | VC Timer |
+  | Routers  |
