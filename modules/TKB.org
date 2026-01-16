@@ -14,3 +14,6 @@
 * schematic / info
 
   [[https://guyd2.com/cellar/modules/115_kbd/index_115kbd.html][cellar - 115 KBD]]
+
+  https://modwiggler.com/forum/viewtopic.php?t=34485
+  http://machines.hyperreal.org/manufacturers/Serge/schematics/
