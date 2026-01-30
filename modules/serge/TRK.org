@@ -25,5 +25,3 @@
   https://djjondent.blogspot.com/2015/02/cgs-86-build-notes-for-serge-touch.html
 
   https://www.elby-designs.com/webtek/cgs/serge/cgs86/cgs86_trk.html
-
-  gh:koppchen/serge-tkb-led-mod for the THC kit.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Designer: Warren Burt, Julian Driscoll
+:END:
+#+TITLE: 32 Steps Sequencer
+
+
+more than a 32 steps sequencer, this module is also a bidirectional 32 stage multiplexer.
+
+as such it can be seen like a mix bewteen the sequencer (SEQ) and the bi-directional router (ROU).
+
+the [[https://www.nonlinearcircuits.com/modules/p/32to1][NLC 32:1]] is the result of this work.
+
+
+* schematic / info
+
+  [[https://nonlinearcircuits2.blogspot.com/2014/02/32-stage-sequencerdivider.html][nlc serge & driscoll blog]]
+
+  [[https://modwiggler.com/forum/viewtopic.php?t=103251&sid=eecd0b549bddbb63b1d1c71bcfa78456][mw thread]]

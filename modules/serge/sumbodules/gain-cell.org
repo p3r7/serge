@@ -1,0 +1,6 @@
+#+TITLE: gain cell
+
+
+used in:
+- VFCQ/VCFX (x3)
+- VFCS (x2)

@@ -17,3 +17,5 @@
 
   https://modwiggler.com/forum/viewtopic.php?t=34485
   http://machines.hyperreal.org/manufacturers/Serge/schematics/
+
+  gh:koppchen/serge-tkb-led-mod for the THC kit.

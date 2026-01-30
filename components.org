@@ -1,0 +1,66 @@
+#+TITLE: components
+
+
+* Norton Op Amps - LM3900
+
+  those components can be seen as counterparts to OTAs.
+
+  Serge designs are notorious for using those, even though they are rarely seen in audio applications overall.
+
+  used in:
+  - 73 EG
+  - positive slew
+  - triple bi-di router
+  - triple comparator
+  - SSG
+  - TWS
+  - DUSG / VCS
+
+  https://sdiy.info/wiki/Synth_DIY_books#49_Easy_Electronic_Projects_for_Transconductance_and_Norton_Op_Amps_by_Delton_T._Horn
+
+
+* OTAs
+
+  serge synths rely heavily on OTAs in their designs
+
+** CA3080 / LM3080 / AS3080E
+
+   [[https://sdiy.info/wiki/CA3080][sdiy.info]]
+
+   first commercially available OTA.
+   got superceeded by the LM13700, though it's not a drop-in replacement (works in some situations, but have to adjust values due to different voltage drop).
+
+   the LM3080 (like the LM13700) is said to be noisier but two can be "stacked" (parallel configuration, one soldered on top of the other) to address the issue.
+
+   used in:
+   - SSG (x2)
+   - 73 VCF (x2)
+   - RVG VCF (x2)
+   - 73 Gate
+   - 73 Ring Mod
+   - older CGS VCM (CGS113)
+
+
+** LM13700
+
+   [[https://sdiy.info/wiki/LM13700][sdiy.info]]
+
+   dual OTA
+
+
+* Transistor Arrays
+
+** CA3086 / LM3086
+
+   used in:
+   - Negative Slew
+
+
+* CMOS
+
+  even though they are not heavily featured, CMOS chips have been used since the first generation of Serge with the CD4007 in the bi-di router (R4).
+
+  the TKB is the epitome of an all-CMOS design.
+
+  - bi-di router
+  - TKB

@@ -9,7 +9,7 @@
    | PRC        | dual voltage processor                | R1       | CGS81          |
    | MIX        | dual mixer                            | R2       |                |
    | P&T        | peak and trough                       | R3       | CGS84          |
-   | ROU        | triple bidirectional router           | R4       |                |
+   | ROU        | triple bi-directional router          | R4       |                |
    | TWS        | triple waveshaper & dual mixer        | R5       |                |
    | MOD        | gate/ring modulator                   | R6       | CGS79 / CGS579 |
    | ENV        | envelope generator                    | R7       | CGS76 / CGS576 |
@@ -76,6 +76,16 @@ KEG env gen
   |----------------+--------|
   | Sub Oscillator | CGS01  |
   | Psycho LFO     | CGS03  |
+
+
+* Driscoll
+
+  | name               | original serge circuit |
+  |--------------------+------------------------|
+  | VCO 1              |                        |
+  | VCO 3 Dual Osc     |                        |
+  | 32 stage sequencer |                        |
+  | RVG                | RVG                    |
 
 
 * clee (Craig Lee)

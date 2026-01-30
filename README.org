@@ -1,0 +1,5 @@
+ #+TITLE: serge
+
+other module lists:
+- [[https://web.archive.org/web/20160219034323/http://www.serge.synth.net/modules/index.html][serge.synth.net - module list]] (Ken Stone's old website, archived)
+- [[https://guyd2.com/cellar/modules/index_modules.html][Resergence Cellar]]

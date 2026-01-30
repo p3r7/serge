@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Designer: Warren Burt
+:END:
+#+TITLE: Additive Programmers
+
+
+* schematic / info
+
+  [[https://nonlinearcircuits2.blogspot.com/2013/06/additive-programmers.html][NLC serge & driscoll blog]] ([[https://nonlinearcircuits2.blogspot.com/2013/06/additive-programmers-2.html][part 2]], [[https://nonlinearcircuits2.blogspot.com/2013/06/additive-programmers-3.html][part 3]])

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:Designer: Serge Tcherepnin
+:gen: 3
+:short: PAN
+:code: 102
+:CGS: CGS102
+:END:
+#+TITLE: equal power panner
+
+[[https://guyd2.com/cellar/modules/102_pan/index_102pan.html][cellar]]
+[[https://sdiy.info/wiki/CGS_Serge_equal_power_panner][sdiy.info]]
+
+complementary circuit to the gain cell to drive 2 of them as a time to do stero panning
